@@ -1,1 +1,1 @@
-# PVSShell
+# Xamarin Form shell project
